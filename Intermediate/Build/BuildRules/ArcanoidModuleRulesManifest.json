@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Usuarios\\Datos_Otto_Ch\\Documents\\Unreal Projects\\SIS457LAB04-master\\SIS457LAB04-master\\Source\\Arcanoid\\Arcanoid.Build.cs",
+		"D:\\Usuarios\\Datos_Otto_Ch\\Documents\\Unreal Projects\\SIS457LAB04-master\\SIS457LAB04-master\\Source\\Arcanoid.Target.cs",
+		"D:\\Usuarios\\Datos_Otto_Ch\\Documents\\Unreal Projects\\SIS457LAB04-master\\SIS457LAB04-master\\Source\\ArcanoidEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
